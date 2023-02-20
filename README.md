@@ -16,7 +16,7 @@ and augument by using
 all other parameters are set based on the base model in mathlab (that i mentioned before).
 
 
-note that all needed more explantion are commented in code block of .py file of the project
+please note that all needed more explantion are commented in code block of .py file of the project.
 
 and here is the summary of the model:
 
